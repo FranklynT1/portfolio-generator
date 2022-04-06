@@ -12,11 +12,11 @@
   },
   "keywords": [],
   "author": "me",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
+    "inquire": "^0.4.8",
     "inquirer": "^7.3.3"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FranklynT1/portfolio-generator.git"

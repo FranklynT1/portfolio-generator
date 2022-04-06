@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-gnerator",
+  "version": "1.0.0",
+  "description": "generate portfolio",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node ./test/sample.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranklynT1/portfolio-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FranklynT1/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/FranklynT1/portfolio-generator#readme"
+}
